@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # About me
 I am currently a grad student of the Computational Bioscience program at University of Colorado, Anschutz Medical Campus
 
+```
 ******+++++++++++++++++++++++++++++**+++++===========++++*********++++=+****+++++++++
 ##**********+++++++++++==++++++++++**+++++++++++++=====++++++++++++++++++++++++++++++
 #*****++****++++++===+++=++++==++++**+++++++++=========++++*+++++++++++++++++++======
@@ -64,6 +65,7 @@ I am currently a grad student of the Computational Bioscience program at Univers
 +*#%%%%@@@@@@@@@@@@%%%######%%%%%%%%%%####%%%%#%%%%%%#*#####%%@@%@@@@@@@%%%%%%#******
 +*#%%%@@@@@@@@@@@@@%%%#%%%%%%%%%%%%%%####%%%%%#%@@@%%%#%%####%@@@@@@@@@@@%%%%%%******
 ##%%%%@@@@@@@@@@@@@@@%%@@%%%%%%%%%%%######%%%%%#%@@@@@%%@@@%%%@@@@@@@@@@@@%%%%%#*****
+```
 
 # Research Interests
 I am interested in cancer research invovling High-dimensional Omics data
